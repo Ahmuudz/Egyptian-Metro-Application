@@ -1,0 +1,748 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "Helwan",
+      "line": "First Line",
+      "order": 0,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 2,
+      "name": "Ain Helwan",
+      "line": "First Line",
+      "order": 1,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 3,
+      "name": "Helwan University",
+      "line": "First Line",
+      "order": 2,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 4,
+      "name": "Wadi Hof",
+      "line": "First Line",
+      "order": 3,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 5,
+      "name": "Hadayek Helwan",
+      "line": "First Line",
+      "order": 4,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 6,
+      "name": "El-Maasara",
+      "line": "First Line",
+      "order": 5,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 7,
+      "name": "Tora El-Asmant",
+      "line": "First Line",
+      "order": 6,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 8,
+      "name": "Kozzika",
+      "line": "First Line",
+      "order": 7,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 9,
+      "name": "Tora El-Balad",
+      "line": "First Line",
+      "order": 8,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 10,
+      "name": "Sakanat El-Maadi",
+      "line": "First Line",
+      "order": 9,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 11,
+      "name": "Maadi",
+      "line": "First Line",
+      "order": 10,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 12,
+      "name": "Hadayek El-Maadi",
+      "line": "First Line",
+      "order": 11,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 13,
+      "name": "Dar El-Salam",
+      "line": "First Line",
+      "order": 12,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 14,
+      "name": "El-Zahraa'",
+      "line": "First Line",
+      "order": 13,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 15,
+      "name": "Mar Girgis",
+      "line": "First Line",
+      "order": 14,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 16,
+      "name": "El-Malek El-Saleh",
+      "line": "First Line",
+      "order": 15,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 17,
+      "name": "Al-Sayeda Zeinab",
+      "line": "First Line",
+      "order": 16,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 18,
+      "name": "Saad Zaghloul",
+      "line": "First Line",
+      "order": 17,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 19,
+      "name": "Sadat",
+      "line": "First Line",
+      "order": 18,
+      "is_transfer": true,
+      "transfer_lines": [
+        "First Line",
+        "Second Line"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Nasser",
+      "line": "First Line",
+      "order": 19,
+      "is_transfer": true,
+      "transfer_lines": [
+        "First Line",
+        "Third Line"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Orabi",
+      "line": "First Line",
+      "order": 20,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 22,
+      "name": "Al-Shohadaa",
+      "line": "First Line",
+      "order": 21,
+      "is_transfer": true,
+      "transfer_lines": [
+        "First Line",
+        "Second Line"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Ghamra",
+      "line": "First Line",
+      "order": 22,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 24,
+      "name": "El-Demerdash",
+      "line": "First Line",
+      "order": 23,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 25,
+      "name": "Manshiet El-Sadr",
+      "line": "First Line",
+      "order": 24,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 26,
+      "name": "Kobri El-Qobba",
+      "line": "First Line",
+      "order": 25,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 27,
+      "name": "Hammamat El-Qobba",
+      "line": "First Line",
+      "order": 26,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 28,
+      "name": "Saray El-Qobba",
+      "line": "First Line",
+      "order": 27,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 29,
+      "name": "Hadayek El-Zaitoun",
+      "line": "First Line",
+      "order": 28,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 30,
+      "name": "Helmeyet El-Zaitoun",
+      "line": "First Line",
+      "order": 29,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 31,
+      "name": "El-Matareyya",
+      "line": "First Line",
+      "order": 30,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 32,
+      "name": "Ain Shams",
+      "line": "First Line",
+      "order": 31,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 33,
+      "name": "Ezbet El-Nakhl",
+      "line": "First Line",
+      "order": 32,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 34,
+      "name": "El-Marg",
+      "line": "First Line",
+      "order": 33,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 35,
+      "name": "New El-Marg",
+      "line": "First Line",
+      "order": 34,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 36,
+      "name": "El-Mounib",
+      "line": "Second Line",
+      "order": 0,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 37,
+      "name": "Sakiat Mekky",
+      "line": "Second Line",
+      "order": 1,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 38,
+      "name": "Omm El-Masryeen",
+      "line": "Second Line",
+      "order": 2,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 39,
+      "name": "El Giza",
+      "line": "Second Line",
+      "order": 3,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 40,
+      "name": "Faisal",
+      "line": "Second Line",
+      "order": 4,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 41,
+      "name": "Cairo University",
+      "line": "Second Line",
+      "order": 5,
+      "is_transfer": true,
+      "transfer_lines": [
+        "Second Line",
+        "Third Line"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "El Bohoth",
+      "line": "Second Line",
+      "order": 6,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 43,
+      "name": "Dokki",
+      "line": "Second Line",
+      "order": 7,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 44,
+      "name": "Opera",
+      "line": "Second Line",
+      "order": 8,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 45,
+      "name": "Sadat",
+      "line": "Second Line",
+      "order": 9,
+      "is_transfer": true,
+      "transfer_lines": [
+        "First Line",
+        "Second Line"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Mohamed Naguib",
+      "line": "Second Line",
+      "order": 10,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 47,
+      "name": "Attaba",
+      "line": "Second Line",
+      "order": 11,
+      "is_transfer": true,
+      "transfer_lines": [
+        "Second Line",
+        "Third Line"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Al-Shohadaa",
+      "line": "Second Line",
+      "order": 12,
+      "is_transfer": true,
+      "transfer_lines": [
+        "First Line",
+        "Second Line"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Masarra",
+      "line": "Second Line",
+      "order": 13,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 50,
+      "name": "Road El-Farag",
+      "line": "Second Line",
+      "order": 14,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 51,
+      "name": "St. Teresa",
+      "line": "Second Line",
+      "order": 15,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 52,
+      "name": "Khalafawy",
+      "line": "Second Line",
+      "order": 16,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 53,
+      "name": "Mezallat",
+      "line": "Second Line",
+      "order": 17,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 54,
+      "name": "Kolleyyet El-Zeraa",
+      "line": "Second Line",
+      "order": 18,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 55,
+      "name": "Shubra El-Kheima",
+      "line": "Second Line",
+      "order": 19,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 56,
+      "name": "Adly Mansour",
+      "line": "Third Line",
+      "order": 0,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 57,
+      "name": "El Haykestep",
+      "line": "Third Line",
+      "order": 1,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 58,
+      "name": "Omar Ibn El-Khattab",
+      "line": "Third Line",
+      "order": 2,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 59,
+      "name": "Qobaa",
+      "line": "Third Line",
+      "order": 3,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 60,
+      "name": "Hesham Barakat",
+      "line": "Third Line",
+      "order": 4,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 61,
+      "name": "El-Nozha",
+      "line": "Third Line",
+      "order": 5,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 62,
+      "name": "Nadi El-Shams",
+      "line": "Third Line",
+      "order": 6,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 63,
+      "name": "Alf Maskan",
+      "line": "Third Line",
+      "order": 7,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 64,
+      "name": "Heliopolis Square",
+      "line": "Third Line",
+      "order": 8,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 65,
+      "name": "Haroun",
+      "line": "Third Line",
+      "order": 9,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 66,
+      "name": "Al-Ahram",
+      "line": "Third Line",
+      "order": 10,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 67,
+      "name": "Koleyet El-Banat",
+      "line": "Third Line",
+      "order": 11,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 68,
+      "name": "Stadium",
+      "line": "Third Line",
+      "order": 12,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 69,
+      "name": "Fair Zone",
+      "line": "Third Line",
+      "order": 13,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 70,
+      "name": "Abbassia",
+      "line": "Third Line",
+      "order": 14,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 71,
+      "name": "Abdou Pasha",
+      "line": "Third Line",
+      "order": 15,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 72,
+      "name": "El Geish",
+      "line": "Third Line",
+      "order": 16,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 73,
+      "name": "Bab El Shaaria",
+      "line": "Third Line",
+      "order": 17,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 74,
+      "name": "Attaba",
+      "line": "Third Line",
+      "order": 18,
+      "is_transfer": true,
+      "transfer_lines": [
+        "Second Line",
+        "Third Line"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Nasser",
+      "line": "Third Line",
+      "order": 19,
+      "is_transfer": true,
+      "transfer_lines": [
+        "First Line",
+        "Third Line"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Maspero",
+      "line": "Third Line",
+      "order": 20,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 77,
+      "name": "Safaa Hegazy",
+      "line": "Third Line",
+      "order": 21,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 78,
+      "name": "Kit Kat",
+      "line": "Third Line",
+      "order": 22,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 79,
+      "name": "Sudan Street",
+      "line": "Third Line",
+      "order": 23,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 80,
+      "name": "Imbaba",
+      "line": "Third Line",
+      "order": 24,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 81,
+      "name": "El-Bohy",
+      "line": "Third Line",
+      "order": 25,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 82,
+      "name": "Al-Qawmeya Al-Arabiya",
+      "line": "Third Line",
+      "order": 26,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 83,
+      "name": "Ring Road",
+      "line": "Third Line",
+      "order": 27,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 84,
+      "name": "Rod al-Farag Axis",
+      "line": "Third Line",
+      "order": 28,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 85,
+      "name": "El-Tawfikeya",
+      "line": "Third Line",
+      "order": 29,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 86,
+      "name": "Wadi El-Nil",
+      "line": "Third Line",
+      "order": 30,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 87,
+      "name": "Gamaat El Dowal Al-Arabiya",
+      "line": "Third Line",
+      "order": 31,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 88,
+      "name": "Bulaq El-Dakroor",
+      "line": "Third Line",
+      "order": 32,
+      "is_transfer": false,
+      "transfer_lines": []
+    },
+    {
+      "id": 89,
+      "name": "Cairo University",
+      "line": "Third Line",
+      "order": 33,
+      "is_transfer": true,
+      "transfer_lines": [
+        "Second Line",
+        "Third Line"
+      ]
+    }
+  ],
+
+  "travel_time_between_stations_minutes": 3
+}
