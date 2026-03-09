@@ -22,22 +22,11 @@ The goal of this project is to simplify daily commuting for users of the **Egypt
 
 It was also built as a practice project to improve my skills in **Android development and Kotlin programming**.
 
-## 📷 Screenshots
+## 📷 App Screenshots
 
+![Home](metro-photos/metro-1.png)
 
-
-Example:
-
-```
-
-
-
-https://github.com/user-attachments/assets/ba8dcf7d-1dcf-424d-b9ac-9b640e08e1c2
-
-
-
-
-```
+![Result](metro-photos/metro-2.png)
 
 ## 🚀 Getting Started
 
