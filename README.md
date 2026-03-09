@@ -24,12 +24,16 @@ It was also built as a practice project to improve my skills in **Android develo
 
 ## 📷 Screenshots
 
-*(You can add screenshots of the application here)*
+
 
 Example:
 
 ```
-<img width="774" height="1275" alt="image" src="https://github.com/user-attachments/assets/2b9be222-e035-46fe-bc74-338851cd27c8" />
+
+
+
+https://github.com/user-attachments/assets/ba8dcf7d-1dcf-424d-b9ac-9b640e08e1c2
+
 
 
 
@@ -72,7 +76,7 @@ If you’d like to improve this project, feel free to fork the repository and su
 **Ahmed Sayed**
 
 - GitHub: https://github.com/Ahmuudz
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: *(www.linkedin.com/in/ahmed-sayed-hammad)*
 
 ---
 
