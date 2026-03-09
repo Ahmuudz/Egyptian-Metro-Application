@@ -29,6 +29,7 @@ It was also built as a practice project to improve my skills in **Android develo
 Example:
 
 ```
+<img width="774" height="1275" alt="image" src="https://github.com/user-attachments/assets/2b9be222-e035-46fe-bc74-338851cd27c8" />
 
 
 
