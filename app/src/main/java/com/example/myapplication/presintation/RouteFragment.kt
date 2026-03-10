@@ -40,7 +40,6 @@ class RouteFragment : Fragment() {
     }
 
     private fun setupRecyclerView() {
-        // In a real app, inject this
         val repository = data.repo.MetroRepositoryImpl(data.dataSource.MetroJsonDataSource(requireContext()))
         val getFirstStationUseCase = domain.usecase.GetFirstStationUseCase(repository)
         val getLastStationUseCase = domain.usecase.GetLastStationUseCase(repository)
