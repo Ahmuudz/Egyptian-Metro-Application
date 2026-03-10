@@ -29,7 +29,6 @@ class RouteAdapter(
         holder.binding.tvStationName.text = current.name
         holder.binding.tvLineName.text = current.line.name
 
-        // Timeline logic
         holder.binding.viewLineTop.visibility = if (position == 0) View.INVISIBLE else View.VISIBLE
         holder.binding.viewLineBottom.visibility = if (position == stations.size - 1) View.INVISIBLE else View.VISIBLE
 
