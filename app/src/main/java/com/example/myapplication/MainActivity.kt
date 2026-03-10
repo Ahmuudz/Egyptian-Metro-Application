@@ -15,7 +15,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         
-        // Enable edge-to-edge
         enableEdgeToEdge()
         
         binding = ActivityMainBinding.inflate(layoutInflater)
